@@ -1,0 +1,7 @@
+<meta>
+<!-- Info -->
+    <info author="Dioguin Desenvolvedor" version="1.0" name="Animes Functions for commands"/>
+<!-- Script -->
+	<script src="script/global.lua" type="shared"/>
+    <script src="script/server.lua" type="server"/>
+</meta>
